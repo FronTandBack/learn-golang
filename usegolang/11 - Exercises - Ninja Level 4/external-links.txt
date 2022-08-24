@@ -1,0 +1,12 @@
+
+006 Correct-solution
+https://go.dev/play/p/ZcyFCyo7_XH
+
+006 INCORRECT-solution
+https://go.dev/play/p/vE9BCWMA2ET
+
+006 instructive-proof
+https://go.dev/play/p/szSlBwJG2S-
+
+006 Correct-Solution-2
+https://go.dev/play/p/2DwlknIE5lu

@@ -1,0 +1,9 @@
+
+009 Instructions
+https://github.com/GoesToEleven/GolangTraining/tree/master/27_code-in-process/67_digital-ocean_aerospike
+
+010 Instructions
+https://github.com/GoesToEleven/GolangTraining/tree/master/27_code-in-process/67_digital-ocean_aerospike
+
+011 Instructions
+https://github.com/GoesToEleven/GolangTraining/tree/master/67_digital-ocean_aerospike

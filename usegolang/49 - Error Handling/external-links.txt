@@ -1,0 +1,15 @@
+
+001 Go-Exceptions
+https://golang.org/doc/faq#exceptions
+
+001 Exception-Handling-Criticism
+https://en.wikipedia.org/wiki/Exception_handling#Criticism
+
+009 Golang-Errors
+https://golang.org/doc/effective_go.html#errors
+
+009 Go-Blog-on-Errors
+http://blog.golang.org/error-handling-and-go
+
+009 Error-Handling
+https://www.ardanlabs.com/blog/2014/10/error-handling-in-go-part-i.html

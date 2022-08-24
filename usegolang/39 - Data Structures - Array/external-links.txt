@@ -1,0 +1,12 @@
+
+001 Golang-Spec-Array
+https://golang.org/ref/spec#Array_types
+
+001 Golang-Spec-Slice
+https://golang.org/ref/spec#Slice_types
+
+001 Golang-Spec-Map
+https://golang.org/ref/spec#Map_types
+
+001 Golang-Spec-Struct
+https://golang.org/ref/spec#Struct_types

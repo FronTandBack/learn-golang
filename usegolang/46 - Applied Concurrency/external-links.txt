@@ -1,0 +1,6 @@
+
+007 Visualization-of-Fan-Out-and-Fan-In
+https://docs.google.com/presentation/d/1JlYAF8vQLlfuKcnW5gqBw6w4Li0pHk8Kf37UoMTSasY/edit?usp=sharing
+
+007 Go-Blog-Pipelines
+https://blog.golang.org/pipelines
